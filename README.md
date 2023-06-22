@@ -1,4 +1,4 @@
-# rn---command-
+# rn-command
 To rename a file or directory in any path.
 
 **How to use?**
